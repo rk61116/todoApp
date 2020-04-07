@@ -1,0 +1,9 @@
+{
+    "env": {
+        "PORT": 8000,
+        "USERNAME":"adminTODO",
+        "PASSWORD":"ToDo^DB3579",
+        "DBNAME": "todo_DB",
+        "JWT_KEY": "NoAnEaSyToFiNdScReCKey"
+    }
+}
